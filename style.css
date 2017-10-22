@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	color:gray;
+}
+
+p{
+	text-align: center;
+}
+
+.fa{
+	font-size: 70px;
+	margin-left: 30px;
+}
+
+.fa-bath:hover{ /*resalta el icono con el cursor*/
+	color:red;
+	font-size:100px;
+	cursor:pointer;/**/
+}
+
+.fa-github:hover{
+	color:puple;
+	font-size: 100px;
+}
+
+.fa-info:hover{
+	color:blue;
+	font-size: 100px;
+	cursor:pointer;
+}
